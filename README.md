@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Riham Mohamed
+- 👀 I’m interested in software testing
+- 🌱 I’m currently learning automation testing 
+- 📫 How to reach me rihammohamed2011@gmail.com
